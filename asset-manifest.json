@@ -15,9 +15,9 @@
     "static/media/index.css": "/List-People-on-ReactJS/static/media/aHR0cDovL3d3dy5wbmdtYXJ0LmNvbS9maWxlcy8xLzNELVJlZC1IZWFydC1QTkctSW1hZ2UucG5n.7d0b2a02.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.46e981a9.js",
-    "static/js/2.8d539fa6.chunk.js",
-    "static/css/main.3ebbd502.chunk.css",
-    "static/js/main.952415b4.chunk.js"
+    "/List-People-on-ReactJS/static/js/runtime-main.46e981a9.js",
+    "/List-People-on-ReactJS/static/js/2.8d539fa6.chunk.js",
+    "/List-People-on-ReactJS/static/css/main.3ebbd502.chunk.css",
+    "/List-People-on-ReactJS/static/js/main.952415b4.chunk.js"
   ]
 }
